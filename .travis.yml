@@ -8,5 +8,6 @@ notifications: # set notification options
       -1547272811@qq.com
 
     # change is when the repo status
-    on_success: change
+    #on_success: change
+    on_success: always
     on_failure: always
